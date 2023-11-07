@@ -41,6 +41,7 @@ To run the project, please follow the below steps:
 
 ## Prediction Service:
 Once docker is up and running, you can start using the model by running the below command in a new terminal window or tab.
+
     ```
     python predict-docker.py
     ```
